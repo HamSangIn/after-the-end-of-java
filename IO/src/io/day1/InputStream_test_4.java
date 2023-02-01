@@ -36,9 +36,9 @@ public class InputStream_test_4 {
 /*
 	== 실행은 아래와 같이 명령프롬프트를 띄워서 한다. ==
 	 
-	C:\\Users\\user>cd C:\NCS\workspace\IO\bin
+	C:\\Users\\user>cd C:\NCS\workspace(java)\IO\bin
 	
-	C:\NCS\workspace\IO\bin>java io.day1.InputStream_test_4
+	C:\NCS\workspace(java)\IO\bin>java io.day1.InputStream_test_4
 	대한민국서울시홍대입구엔터
 	대한민국서울시홍대입구
 	Ctrl+C 함
